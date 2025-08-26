@@ -1,0 +1,7 @@
+[project]
+name = "ma2014-bayesian-networks"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = ["pandas", "numpy", "matplotlib", "networkx", "pybbn", "matplotlib_inline", "ipython"]
